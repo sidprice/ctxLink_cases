@@ -35,7 +35,3 @@ plastic contacts for the buttons.
 If your printing workflow can do color changes, I suggest printing
 the first two layers of the lid in a transparent PLA, and the rest
 in an opaque color.  If not, print the whole lid in transparent.
-
-N.B., Fusion 360 gave errors just before I exported the `.f3z` file.
-The file may not be complete.  If I can determine what's going on,
-I will update the file here.
